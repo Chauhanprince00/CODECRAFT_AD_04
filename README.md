@@ -6,25 +6,24 @@ Tic Tac Toe is a classic two-player game brought to life with smooth animations 
 
 ✨ Features
 
--🎮 Two-player mode – Play with friends.
+🎮 Two-player mode – Play with friends.
 
--🔄 Smooth animations using Lottie files.
+🔄 Smooth animations using Lottie files.
 
--🎨 Beautiful UI – Clean and modern design.
+🎨 Beautiful UI – Clean and modern design.
 
--🖋 Nunito font for a premium text experience.
+🖋 Nunito font for a premium text experience.
 
--📊 Game status updates – Real-time updates on turns and winners.
+📊 Game status updates – Real-time updates on turns and winners.
 
-=🏆 Winning animations – Special effects when a player wins.
+🏆 Winning animations – Special effects when a player wins.
 
--❌⭕ Reset button – Restart the game anytime.
+❌⭕ Reset button – Restart the game anytime.
 
-.
 
-📸 Screenshots
 
 🚀 Tech Stack
+
 
 Language: Kotlin
 
@@ -34,7 +33,9 @@ Animations: Lottie
 
 Font: Nunito
 
+
 🎯 How to Play
+
 
 Players take turns marking X or O on the grid.
 
@@ -44,7 +45,9 @@ If the grid is full and no one wins, it's a draw.
 
 Click the reset button to play again.
 
+
 🛠 Customization
+
 
 Change animations by replacing Lottie JSON files.
 
@@ -52,7 +55,9 @@ Modify UI elements via XML layouts.
 
 Adjust the font or themes in styles.xml.
 
+
 🏅 Credits
+
 
 Developed with ❤️ by Prince Chauhan
 
