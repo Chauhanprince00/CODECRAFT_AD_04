@@ -26,7 +26,6 @@ A **modern and interactive** Tic Tac Toe game with **smooth animations, elegant 
     <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_04/blob/master/Screenshot_20250306_100059.png" width="250">
 </p>  
 
-_(Screenshots are resized for better readability.)_  
 
 ---
 
